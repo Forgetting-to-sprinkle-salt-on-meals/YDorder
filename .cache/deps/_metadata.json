@@ -1,0 +1,38 @@
+{
+  "hash": "d32733f6",
+  "browserHash": "78943240",
+  "optimized": {
+    "@ant-design/icons-vue": {
+      "src": "../../node_modules/@ant-design/icons-vue/es/index.js",
+      "file": "@ant-design_icons-vue.js",
+      "fileHash": "0287130b",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "a97fd89d",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "f3a2633d",
+      "needsInterop": false
+    },
+    "vuex": {
+      "src": "../../node_modules/vuex/dist/vuex.esm-bundler.js",
+      "file": "vuex.js",
+      "fileHash": "f0cdeacc",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BOM43CDS": {
+      "file": "chunk-BOM43CDS.js"
+    },
+    "chunk-DJHZIAN2": {
+      "file": "chunk-DJHZIAN2.js"
+    }
+  }
+}
